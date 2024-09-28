@@ -51,7 +51,7 @@ modules = [
   myspace, netflix, okcupid,
   pinterest, reddit, square,
   stumbleupon, tumblr, twitter,
-  venmo, yelp
+  venmo, yelp, garena
 ]
 
 email_modules = [
