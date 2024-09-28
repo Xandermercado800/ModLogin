@@ -11,3 +11,4 @@ Paypal
 Quora
 Spotify
 Yahoo
+garena
