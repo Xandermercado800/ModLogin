@@ -23,6 +23,7 @@ from modules.Tumblr import tumblr
 from modules.Twitter import twitter
 from modules.Venmo import venmo
 from modules.Yelp import yelp
+from modules.Garena import garena
 
 """
 Usage Examples:
